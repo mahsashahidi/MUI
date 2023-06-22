@@ -45,7 +45,7 @@ export const sounds = [
     src: "/src/assets/audio/963.ogg",
   },
   {
-    id: 6,
+    id: 10,
     title: "All9SolfeggioFrequencies",
     src: "/src/assets/audio/All9SolfeggioFrequencies.ogg",
   },
